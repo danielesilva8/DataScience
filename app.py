@@ -565,22 +565,22 @@ st.markdown("## Como usar essas informações?")
 b1, b2, b3, b4 = st.columns(4)
 with b1:
     st.markdown("""<div class="bot-card">
-      <p class="bot-title">🔔 Antecipar riscos</p>
+      <p class="bot-title"> Antecipar riscos</p>
       <p class="bot-body">Identifique municípios com maior probabilidade de insegurança alimentar até 60 dias antes.</p>
     </div>""", unsafe_allow_html=True)
 with b2:
     st.markdown("""<div class="bot-card">
-      <p class="bot-title">📍 Priorizar ações</p>
+      <p class="bot-title"> Priorizar ações</p>
       <p class="bot-body">Direcione recursos e programas para as áreas mais vulneráveis e que mais precisam de apoio.</p>
     </div>""", unsafe_allow_html=True)
 with b3:
     st.markdown("""<div class="bot-card">
-      <p class="bot-title">📈 Decisão baseada em dados</p>
+      <p class="bot-title"> Decisão baseada em dados</p>
       <p class="bot-body">Utilize evidências para planejar políticas públicas mais eficientes e reduzir os impactos da insegurança alimentar.</p>
     </div>""", unsafe_allow_html=True)
 with b4:
     st.markdown("""<div class="bot-card">
-      <p class="bot-title">❤️ Reduzir impactos sociais</p>
+      <p class="bot-title"> Reduzir impactos sociais</p>
       <p class="bot-body">Ações preventivas ajudam a evitar o agravamento da fome e a promover mais segurança alimentar para a população.</p>
     </div>""", unsafe_allow_html=True)
 
